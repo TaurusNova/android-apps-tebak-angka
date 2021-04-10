@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TebakAngka</string>
+    <string name="header_title">Tebak Angka</string>
 </resources>
